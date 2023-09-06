@@ -24,8 +24,3 @@ Este projeto é um aplicativo que permite que os usuários encontrem restaurante
    - Crie um arquivo .env na raiz do projeto e adicione sua chave de API do Google Maps da seguinte forma: REACT_APP_GOOGLE_MAPS_API_KEY=<SUA CHAVE DE API>.
    - Execute o comando npm start para iniciar o aplicativo. Ele será aberto automaticamente em seu navegador padrão
     
-    
-   # Layout
-   
-![Web1](https://github.com/darlanbbs/imgs/blob/main/RestaurantFinder/image1.png)
-![Web1](https://github.com/darlanbbs/imgs/blob/main/RestaurantFinder/image2.png)
